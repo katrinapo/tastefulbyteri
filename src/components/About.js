@@ -1,6 +1,6 @@
 import React from 'react';
-import aboutImage from './aboutImage.jpg';
-import aboutImage2 from './aboutImage2.jpg';
+import aboutImage from '../assets/aboutImage.jpg';
+import aboutImage2 from '../assets/aboutImage2.jpg';
 
 const About = () => {
     return (

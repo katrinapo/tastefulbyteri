@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import tachyons from 'tachyons';
 import Footer from './Footer';
