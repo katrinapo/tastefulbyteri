@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tastefulbyteri/static/css/main.f226e301.chunk.css",
+    "main.js": "/tastefulbyteri/static/js/main.76a856e6.chunk.js",
+    "main.js.map": "/tastefulbyteri/static/js/main.76a856e6.chunk.js.map",
+    "runtime-main.js": "/tastefulbyteri/static/js/runtime-main.b068e3b1.js",
+    "runtime-main.js.map": "/tastefulbyteri/static/js/runtime-main.b068e3b1.js.map",
+    "static/css/2.31461e4f.chunk.css": "/tastefulbyteri/static/css/2.31461e4f.chunk.css",
+    "static/js/2.be483d40.chunk.js": "/tastefulbyteri/static/js/2.be483d40.chunk.js",
+    "static/js/2.be483d40.chunk.js.map": "/tastefulbyteri/static/js/2.be483d40.chunk.js.map",
+    "index.html": "/tastefulbyteri/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/tastefulbyteri/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.f226e301.chunk.css.map": "/tastefulbyteri/static/css/main.f226e301.chunk.css.map",
+    "static/js/2.be483d40.chunk.js.LICENSE.txt": "/tastefulbyteri/static/js/2.be483d40.chunk.js.LICENSE.txt",
+    "static/media/aboutImage.97e030a8.jpg": "/tastefulbyteri/static/media/aboutImage.97e030a8.jpg",
+    "static/media/aboutImage2.e3fdc49c.jpg": "/tastefulbyteri/static/media/aboutImage2.e3fdc49c.jpg",
+    "static/media/App.css": "/tastefulbyteri/static/media/marble.25862b06.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b068e3b1.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.be483d40.chunk.js",
+    "static/css/main.f226e301.chunk.css",
+    "static/js/main.76a856e6.chunk.js"
+  ]
+}
