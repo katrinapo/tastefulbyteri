@@ -1,18 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+body {
+  background-image: url("marble.jpg");
+}
 .App {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* Header */
+.header {
+  background-image: url("headerImage.jpg");
 }
-
+.main-header{
+  font-family: 'Lobster', cursive;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -35,4 +40,52 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/* About */
+.about-header {
+  font-family: 'Lobster', cursive;
+}
+.about-container{
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-rows: auto 1fr;
+  grid-gap: 2rem;
+}
+
+.about__img-item{
+  width: 100%;
+  display: block;
+  height: 100%;
+  border-radius: 0.25rem;
+}
+@media screen and (min-width:768px){
+  .about__img-special{
+    order: -1;
+  }
+  .about-container{
+    grid-template-rows: 1fr 1fr;
+  }
+}
+
+/* grid container */
+.grid-container{
+  max-width: 90vw;
+  margin: 2rem auto;
+  display:grid;
+  grid-row-gap: 2rem;
+}
+@media screen and (min-width:768px){
+  .grid-container--medium-2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 4rem;
+  }
+  .grid-container{
+  max-width: 75vw;
+}
+}
+
+.footer {
+  background: rgb(14, 13, 13);
 }
